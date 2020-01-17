@@ -6,7 +6,7 @@ SRC		:= src
 INCLUDE	:= include
 LIB		:= lib
 
-LIBRARIES	:=
+LIBRARIES	:= -lglfw -lGLEW -lOpenGL
 EXECUTABLE	:= main
 
 
